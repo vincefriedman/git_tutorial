@@ -1,3 +1,7 @@
 <<<<<<< HEAD
-i hello world. Things are changing. I just completed changed myfile.txt
+i hello world. Things are changing. I just completed changed myfile.txt 
+
+
+this is the edit offline wahoo
+
 >>>>>>> mybranch
