@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 i hello world. Things are changing. I just completed changed myfile.txt 
 
 
-this is the edit offline wahoo
+this is now the merged offline/online wahoo
 
+
+>>>>>>> 0aa33ba6035ca2ff227eba1529fc334e42c4f03d
 >>>>>>> mybranch
