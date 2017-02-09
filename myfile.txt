@@ -1,1 +1,3 @@
-i hello world. Things are changing, life is good. I love editing!!!! GO HEELS BABY!!!!!! yo young blood whats up keep on changin32332232wewqewqewqwq323323:wqg
+<<<<<<< HEAD
+i hello world. Things are changing. I just completed changed myfile.txt
+>>>>>>> mybranch
